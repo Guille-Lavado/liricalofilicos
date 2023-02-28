@@ -1,0 +1,51 @@
+.PoemasAleatorio {
+    text-align: center;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.PoemasAleatorio ul {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 70vw;
+    height: 50vh;
+    list-style: none;
+    padding: 0;
+}
+
+.PoemasAleatorio ul li {
+    opacity:0;
+    position: absolute;
+    transition: opacity 2s;
+    background: #282c34;
+}
+
+.PoemasAleatorio ul li {
+    cursor: default;
+}
+
+.PoemasAleatorio ul .opaco {
+    opacity:1;
+}
+
+.PoemasAleatorio .info {
+    transition: opacity 1s;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.2);
+}
+.PoemasAleatorio .info:hover {
+    color: #fff;
+    cursor: default;
+}
+
+@keyframes opacity {
+    0%   {opacity:0;}
+    100% {opacity:1;}
+}
