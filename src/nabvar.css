@@ -15,7 +15,7 @@
     padding: 18px;
     text-transform:uppercase;
     color: #777;
-    font-size: 18px;
+    font-size: calc(10px + 1vmin);
     border: none;
     background: transparent;
     display: block;

@@ -9,10 +9,11 @@ body {
 
 .body {
     display: grid;
-    position: relative;
-    width: 100vw;
-    transition: left 1s;
     grid-template-columns: 100vw 100vw;
+    position: relative;
+    left: 0;
+    transition: left 1s;
+    width: 100vw;
 }
 
 code {
