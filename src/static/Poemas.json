@@ -1,5 +1,136 @@
 [
 	{
+		"name": "poema 1",
+		"autor": "Pablo Neruda",
+		"poema": [
+		    "Cuerpo de mujer, blancas colinas, muslos blancos,",
+            "te pareces al mundo en tu actitud de entrega.",
+            "Mi cuerpo de labriego salvaje te socava",
+            "y hace saltar el hijo del fondo de la tierra."
+        ]
+	},
+	{
+		"name": "poema 2",
+		"autor": "Pablo Neruda",
+		"poema": [
+		    "En su llama mortal la luz te envuelve.",
+            "Absorta, pálida doliente, así situada",
+            "contra las viejas hélices del crepúsculo",
+            "que en torno a ti da vueltas."
+        ]
+	},
+	{
+		"name": "poema 3",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Ah vastedad de pinos, rumor de olas quebrándose,",
+            "lento juego de luces, campana solitaria,",
+            "crepúsculo cayendo en tus ojos, muñeca,",
+            "caracola terrestre, en ti la tierra canta!"
+		]
+	},
+	{
+		"name": "poema 4",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Es la mañana llena de tempestad",
+            "en el corazón del verano.",
+            "Como pañuelos blancos de adiós viajan las nubes,",
+            "el viento las sacude con sus viajeras manos."
+		]
+	},
+	{
+		"name": "poema 5",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Para que tú me oigas",
+            "mis palabras",
+            "se adelgazan a veces",
+            "como las huellas de las gaviotas en las playas."
+		]
+	},
+	{
+		"name": "poema 6",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Te recuerdo como eras en el último otoño.",
+            "Eras la boina gris y el corazón en calma.",
+            "En tus ojos peleaban las llamas del crepúsculo",
+            "Y las hojas caían en el agua de tu alma."
+		]
+	},
+	{
+		"name": "poema 7",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "INCLINADO en las tardes tiro mis tristes redes",
+            "a tus ojos oceánicos.",
+            "Allí se estira y arde en la más alta hoguera",
+            "mi soledad que da vueltas los brazos como un náufrago."
+		]
+	},
+	{
+		"name": "poema 8",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Abeja blanca zumbas --ebria de miel en mi alma",
+            "y te tuerces en lentas espirales de humo.",
+            "Soy el desesperado, la palabra sin ecos,",
+            "el que lo perdió todo, y el que todo lo tuvo."
+		]
+	},
+	{
+		"name": "poema 9",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Ebrio de trementina y largos besos,",
+            "estival, el velero de las rosas dirijo,",
+            "torcido hacia la muerte del delgado día,",
+            "cimentado en el solido frenesí marino."
+		]
+	},
+	{
+		"name": "poema 10",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Hemos perdido aún este crepúsculo.",
+            "Nadie nos vio esta tarde con las manos unidas",
+            "mientras la noche azul caía sobre el mundo.",
+            "He visto desde mi ventana",
+            "la fiesta del poniente en los cerros lejanos."
+		]
+	},
+	{
+		"name": "poema 11",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Casi fuera del cielo ancla entre dos montañas",
+            "la mitad de la luna.",
+            "Girante, errante noche, la cavadora de ojos.",
+            "A ver cuántas estrellas trizadas en la charca."
+		]
+	},
+	{
+		"name": "poema 12",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "Para mi corazón basta tu pecho,",
+            "para tu libertad bastan mis alas.",
+            "Desde mi boca llegará hasta el cielo",
+            "lo que estaba dormido sobre tu alma."
+		]
+	},
+	{
+		"name": "poema 13",
+		"autor": "Pablo Neruda",
+		"poema": [
+            "He ido marcando con cruces de fuego",
+            "el atlas blanco de tu cuerpo.",
+            "Mi boca era una araña que cruzaba escondiéndose.",
+            "En ti, detrás de ti, temerosa, sedienta."
+		]
+	},
+    {
 		"name": "poema 14",
 		"autor": "Pablo Neruda",
 		"poema": [

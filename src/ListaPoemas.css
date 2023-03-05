@@ -1,11 +1,9 @@
 .ListaPoemas {
-    display: flex;
+    overflow: auto;
     text-align: center;
-    height: 80vh;
-    align-items: center;
-    justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
+    height: 80vh;
 }
 
 .ListaPoemas ul {
@@ -21,4 +19,9 @@
 .ListaPoemas ul li {
     background: #282c34;
     margin-bottom: calc(10px + 4vmin);
+}
+
+.ListaPoemas ul li .autor {
+    position: relative;
+    left: 200px;
 }

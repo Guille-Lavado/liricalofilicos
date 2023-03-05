@@ -2,16 +2,16 @@ import './ListaPoemas.css';
 import Poemas from "./static/Poemas.json";
 
 const ListaPoemas = () => {
-    const poemas = Poemas.map(item => item.poema);
-    
     return (
         <div className="ListaPoemas">
             <ul>
-            {poemas.map((poema,index) =>
+            {Poemas.map((poema,index) =>
                 <li id={index}>
-                {poema.map(verso => 
+                <h3>{poema.name}</h3>
+                {poema.poema.map(verso => 
                     <p style={{margin: 0}}>{verso}</p>
                 )}
+                <p className="autor">-- {poema.autor}</p>
                 </li>
             )}
             </ul>

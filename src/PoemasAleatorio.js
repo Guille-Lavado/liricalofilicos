@@ -19,14 +19,12 @@ document.addEventListener('click', changePoema);
 document.addEventListener('touch', changePoema);
 
 const PoemasAleatorio = () => {
-    const poemas = Poemas.map(item => item.poema);
-    
     return (
         <div className="PoemasAleatorio">
             <ul>
-            {poemas.map((poema,index) =>
+            {Poemas.map((poema,index) =>
                 <li id={index}>
-                {poema.map(verso => 
+                {poema.poema.map(verso => 
                     <p style={{margin: 0}}>{verso}</p>
                 )}
                 </li>
